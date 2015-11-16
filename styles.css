@@ -11,3 +11,12 @@ h1{
 	color: #fff;
 
 }
+
+.container{
+	padding-left:10px;
+}
+
+label{
+	display: inline-block;
+	width:150px;
+}
